@@ -2,6 +2,11 @@
 
 This is a tool which I developed, and will continue to work on in my free time.
 
+Requires these libraries, which are available via Nuget:
+- AWSSDK.S3
+- System.Configuration.ConfigurationManager
+
+
 There are two main operation modes, which are accessed through the form panels.
 
 
